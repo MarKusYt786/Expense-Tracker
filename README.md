@@ -4,11 +4,11 @@ A modern Expense Tracker built with React that helps users manage income and exp
 
 ## 🚀 Live Demo
 
-https://your-live-demo-link
+https://expense-tracker-xi-five-63.vercel.app/
 
 ## 📂 GitHub Repository
 
-https://github.com/yourusername/expense-tracker
+https://github.com/MarKusYt786/expense-tracker
 
 ---
 
@@ -83,7 +83,7 @@ https://github.com/yourusername/expense-tracker
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/MarKusYt786/expense-tracker.git
 
 cd expense-tracker
 
